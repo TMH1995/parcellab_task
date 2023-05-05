@@ -1,0 +1,1 @@
+from .track_trace_view import fetchShipmentDetails

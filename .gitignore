@@ -1,0 +1,10 @@
+
+# Compiled Python bytecode
+*.py[cod]
+
+.idea
+venv
+db.sqlite3
+media/*
+__pycache__
+scripts/
